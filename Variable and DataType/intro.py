@@ -63,13 +63,14 @@
 # _num = 2000 # ok
 # $num = 2000 # not ok
 
-# rule 5 : we can use reserved keyword as variable name
+# rule 5 : we can not use reserved keyword as variable name
 
 # if = 40 # not ok
 
 # rule 6 : variable are case-sensitive
 
 # num = 20
+# Num = 100
 
 # num = 100  # re-inisilization
 
@@ -83,6 +84,15 @@
 # print(Num)
 
 
-# rule 7 : Variable name can we simall or long but it should be meaningfull.
+# rule 7 : Variable name can we small or long but it should be meaningfull.
+
+
+# keywords in python link : https://www.geeksforgeeks.org/python/python-keywords-and-identifiers/
+
+# x = 10
+
+# number = 10
+
+# username = "Pawan"
 
 

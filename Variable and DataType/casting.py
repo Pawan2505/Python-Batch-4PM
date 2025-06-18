@@ -2,6 +2,7 @@
 # num = "54"
 
 # print(num)
+
 # print(type(num))
 
 # number = int(num)
@@ -94,6 +95,48 @@
 # y = "John"
 # print(x + y)
 
-x = 5
-y = "John"
-print(x, y)
+# x = 5
+# y = "John"
+# print(x, y)
+
+
+# num = 10
+
+# print(type(num))
+
+# is_num = bool(num)
+
+# print(is_num)
+
+
+# num = 0
+
+# print(type(num))
+
+# is_num = bool(num)
+
+# print(is_num)
+
+# num = "suhani"
+
+# print(type(num))
+
+# is_num = bool(num)
+
+# print(is_num)
+
+
+# print(type(10.578))
+
+# print(type("pawan"))
+# print(type("true"))
+
+# print(type(True))
+# print(type(int(False)))
+# print(int(False))
+
+
+# num = 2+3j
+
+# print(num)
+# print(type(num))
