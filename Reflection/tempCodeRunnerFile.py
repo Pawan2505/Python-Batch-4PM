@@ -1,0 +1,1 @@
+c = Child("Manish",23)
